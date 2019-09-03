@@ -1,0 +1,21 @@
+h2{
+    color: blue;
+    margin-top: 300px;
+}
+
+.p{
+    width: 300px;
+    padding: 50px;
+    
+}
+
+body{
+    text-align: center;
+    float: right;
+    margin-right: 600px;
+}
+
+#Text{
+    width: 450px;
+    height: 600 0px;
+}
