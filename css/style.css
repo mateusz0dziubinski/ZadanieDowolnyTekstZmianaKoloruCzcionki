@@ -15,7 +15,11 @@ body{
     margin-right: 600px;
 }
 
-#Text{
+#text{
     width: 450px;
     height: 600 0px;
+}
+
+#colorRed{
+    color: red;
 }
